@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tryxee Automations
 
 Tryxee Automations is a **PyQt5** desktop application that provides a visual, node-based editor to design and run automation “flows”.
@@ -131,3 +132,11 @@ Artifacts are created under:
 
 - **Antivirus / SmartScreen**
   - Windows may quarantine or warn on unsigned executables. This is expected for locally-built apps.
+=======
+Setup :
+On windows :
+python3 -m venv venv ; venv/Scripts/Activate; pip install -r requirements.txt
+
+On linux :
+python3 -m venv venv && source venv/Bin/activate && pip install -r requirements.txt
+>>>>>>> 9d3c053e6bec6b9f96e8dd73a67db18d686fb164
